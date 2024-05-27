@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Moiz Arshad",
+  "url": "https://moizarshad.com/",
+  "sameAs": [
+    "https://www.linkedin.com/in/moiz-arshad/",
+    "https://github.com/moizAsh"  
+  ],
+  "jobTitle": "Software Developer",
+  "description": "Moiz Arshad professional portfolio website showcasing projects, and contact information.",
+  "image": "https://moizarshad.com/assets/images/profile.jpg"
+}
